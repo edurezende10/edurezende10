@@ -1,4 +1,4 @@
-# Hi, I'm Fagner! :D
+# Olá, meu nome é Eduardo! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/edurezende10)](https://github.com/edurezende10)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rezende-cruz/)](https://www.linkedin.com/in/eduardo-rezende-cruz/)
@@ -6,7 +6,7 @@
 
 
 ### Sobre 
-Olá, meu nome é Eduardo, sou aspirante a <strong> {Front-End Junior} </strong>, estou em busca de uma primeira oportunidade.
+Olá, sou aspirante a <strong> {Front-End Junior} </strong>, estou em busca de uma primeira oportunidade.
 
 
 - [Cursos](https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack) 👨🏼‍🏫 - Estou cursando este bootcamp, no qual tem como objetivo preparar alunos para ocupar vagas desenvolvimento Web Full-Stack.
