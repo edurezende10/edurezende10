@@ -9,6 +9,6 @@
 Olá, sou aspirante a <strong> {Front-End Junior} </strong>, estou em busca de uma primeira oportunidade.
 
 
-- [Cursos](https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack) 👨🏼‍🏫 - Estou cursando este bootcamp, no qual tem como objetivo preparar alunos para ocupar vagas desenvolvimento Web Full-Stack.
+- [Cursos](https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack) 👨🏼‍🏫 - Estou cursando este bootcamp, no qual tem como objetivo preparar alunos para ocupar vagas desenvolvimento Web Full-Stack, desenvolvendo aplicações de ponta a ponta, utilizando a Stack MEARN.
 
-- [Website](https://edurezende10.github.io/responsive-portfolio/) 💻 - Em desenvolvimento.
+- [Website](https://edurezende10.github.io/responsive-portfolio/) 💻 - 
